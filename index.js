@@ -152,7 +152,7 @@ function hungryDog(weight, age){
   }
 } 
 
-console.log(hungryDog(151, 1));
+console.log(hungryDog(90, 1));
 
 
 
@@ -287,7 +287,7 @@ if (score >=90){
 }
 
 
-console.log(grade(90));
+console.log(grade(92));
 
 
 
